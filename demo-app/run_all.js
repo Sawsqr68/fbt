@@ -21,3 +21,10 @@ if (!fs.existsSync('.source_strings.json')) {
 if (!fs.existsSync(path.resolve('src', 'translatedFbts.json'))) {
   execSync('yarn translate-fbts');
 }
+hashToText":{
+    "ni7kanCF2RfGZAS9mDOToQ==":
+    "Hello, World!"
+  },
+  ...,
+  "desc": "Canonical intro text"
+}
